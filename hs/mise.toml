@@ -1,0 +1,6 @@
+[tools]
+ghcup = "0.1.50.2"
+ghc = "9.10.3"
+stack = "3.9.3"
+# 以下はaptで入れている
+# build-essential curl libffi-dev libgmp-dev libncurses-dev 
